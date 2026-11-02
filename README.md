@@ -30,7 +30,7 @@ The system can automatically respond to customers or escalate complex and sensit
 
 ## Workflow Architecture
 
-![Main Workflow](Screenshots/01%20-%20Main%20Workflow.png)
+![Main Workflow](<01 - Main Workflow.png>)
 
 ## Project Purpose
 
